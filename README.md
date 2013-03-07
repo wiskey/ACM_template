@@ -1,0 +1,1 @@
+This is my code template of acm/icpc.
